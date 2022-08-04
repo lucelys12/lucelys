@@ -1,0 +1,46 @@
+*{
+    color: white;
+    margin: auto;
+    text-align: center;
+}
+.container{ 
+    background: rgb(136, 136, 132);
+    height: 400px;
+    margin-top: 20px;
+    border: 1px solid #000000;
+    width: 400px;
+    border-radius: 20px;
+}
+
+#resultado{
+    padding-top: 30px;
+    color: #000000;
+    background: rgb(202, 228, 214);
+    width: 20rem;
+    height: 70px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h1{
+    margin-top: 10px;
+}
+
+.btn{
+    height: 30px;
+    border: 1px solid #000;
+    border-radius: 10px;
+    width: 90px;
+    margin-top: 30px;
+    margin-left: 10px;
+}
+
+.btn:hover{
+    color: #ffffff;
+    background: #000;
+
+}
+
+input{
+    color: #000000;
+}
